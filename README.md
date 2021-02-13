@@ -1,4 +1,4 @@
-# Final-Year-Project
+# FYP - Building an Interpretable ICU Mortality Risk Calculator
 
 ## Citing
 @misc{Code,
