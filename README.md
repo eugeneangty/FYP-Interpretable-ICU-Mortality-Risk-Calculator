@@ -3,7 +3,7 @@ This repository contains all codes used in my final year project, titled Buildin
 The data is obtained from MIMIC critical care database. Please see: https://mimic.physionet.org
 
 ## Codes
-Generating Dataset.ipynb - Code to extract data from the database
+Generating Dataset.ipynb - Code to extract data from the database \\
 Data Preprocessing.ipynb - Code to clean and preprocess extracted data
 Logistic Regression v5.ipynb - Code for logistic regression model
 Decision Tree Classifier v3.ipynb - Code for decision tree model
