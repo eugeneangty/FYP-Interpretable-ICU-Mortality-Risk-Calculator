@@ -4,12 +4,12 @@ The data is obtained from MIMIC critical care database. Please see: https://mimi
 
 ## Codes
 Generating Dataset.ipynb - Code to extract data from the database  
-Data Preprocessing.ipynb - Code to clean and preprocess extracted data
-Logistic Regression v5.ipynb - Code for logistic regression model
-Decision Tree Classifier v3.ipynb - Code for decision tree model
-Random Forest v1.ipynb - Code for random forest model
-K-Nearest Neighbour v1.ipynb - Code for k-nearest neighbour model
-Multi-Layered Perceptron v2.ipynb - Code for multi-layered perceptron model
+Data Preprocessing.ipynb - Code to clean and preprocess extracted data  
+Logistic Regression v5.ipynb - Code for logistic regression model  
+Decision Tree Classifier v3.ipynb - Code for decision tree model  
+Random Forest v1.ipynb - Code for random forest model  
+K-Nearest Neighbour v1.ipynb - Code for k-nearest neighbour model  
+Multi-Layered Perceptron v2.ipynb - Code for multi-layered perceptron model  
 Test Sample Analysis v2.ipynb - Code for interpreting all 5 models through some test cases
 
 ## Preprint
