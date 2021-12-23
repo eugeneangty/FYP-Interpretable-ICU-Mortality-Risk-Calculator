@@ -14,7 +14,9 @@ Test Sample Analysis v2.ipynb - Code for interpreting all 5 models through some 
 
 ## Submission
 Preprint - Published onto arxiv on 19th January 2021. Link: https://arxiv.org/abs/2101.07426  
-Submitted to EMBC 2021 on 19th February 2021
+Submitted to 43rd Annual International Conference of the IEEE EMBC 2021 on 19th February 2021
+Accepted by 43rd Annual International Conference of the IEEE EMBC 2021 on 16th July 2021
+Presented to 43rd Annual International Conference of the IEEE EMBC 2021 on 1-5th Nov 2021
 
 ## Acknowledgement
 I would like to thank Associate Professor Tan Yan Fu, Vincent, Dr. Milashini Nambiar and Dr. Soh Yong Sheng for their supervision on this project. Special mention to Dr. Pavitra Krishnaswamy for comments on the manuscript.
